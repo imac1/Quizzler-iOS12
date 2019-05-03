@@ -1,6 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 #  Quizzler
 
 ## Our Goal
@@ -22,13 +20,6 @@ You will program a trivia quiz app, inspired by the awesome “Quiz Up” game. 
 * Learn about class initialisation. 
 * How to programmatically change UI elements such as Labels and Views.
 * Start thinking about data encapsulation and how to keep your data safe from corruption.
-
-
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
-
-
-
 
 ## Quiz Text Strings
 
@@ -65,6 +56,3 @@ You will program a trivia quiz app, inspired by the awesome “Quiz Up” game. 
         
 
 
->This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
